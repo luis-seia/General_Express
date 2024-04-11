@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ges 2.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ges</string>
+    <string name="nav_header_subtitle">luis.seia@jstechnology.co.mz</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Projects</string>
+    <string name="menu_slideshow">Requirements</string>
+
+    <string name="menu_attendance">Controle de Assiduidade</string>
+    <string name="menu_requests">Requisições</string>
+    <string name="menu_material_requests">Requisições de Materiais</string>
+    <string name="menu_labor_requests">Requisições de Mão de Obra</string>
+    <string name="menu_value_requests">Requisições de Valor</string>
+    <string name="menu_approval">Historico de Requisições</string>
+    <string name="menu_reports">Relatórios</string>
+    <string name="menu_production">Folha de Produção</string>
+    <string name="menu_production_reports">Relatórios de Produção</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="select_project_number">Projecto</string>
+
+    <string name="permission_warning">Para continuar habilite a câmera e o armazenamento</string>
+    <string name="dismiss">Dispensar</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="texto_tutorial">Para fazer o reconhecimento Facial
+        Precisamos de 25 fotos do seu rosto, Iremos iniciar
+        o App com a Câmera e ao fazer a caputura dessas fotos
+        tente movimentar a cabeça para tirar a fotos de diferente ângulos</string>
+</resources>
